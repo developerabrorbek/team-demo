@@ -8,3 +8,9 @@
   margin: 0 auto;
   max-width: 1400px;
 }
+
+.footer__inner {
+  display: flex;
+  align-items: center;
+  background-color: aquamarine;
+}
