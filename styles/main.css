@@ -8,3 +8,9 @@
   margin: 0 auto;
   max-width: 1400px;
 }
+
+.main-inner{
+  height: 100%;
+  width: 100%;
+  background-color: blueviolet;
+}
